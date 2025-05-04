@@ -1,4 +1,5 @@
-# Hi there, I'm Idris! 👋
+# 👋Hi there, I'm Idris Temitayo Shittu! 
+🎯 Aspiring Back-End Developer | 📚 Tutor | 🎨 Writer
 
 
 ## About Me 🚀
@@ -19,8 +20,10 @@ I'm a passionate **Web Development** with experience in **HTML, CSS, JavaScript 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 
-## Get in Touch 📬
-- **[LinkedIn]**(www.linkedin.com/in/idristemitayoshittu)
-- **[Twitter]**(www.x.com/archimedes_jr)
+### Let's Connect 📬
+- 💼[LinkedIn](www.linkedin.com/in/idristemitayoshittu)
+- 🐦[Twitter](www.x.com/archimedes_jr)
+- 💬 Discord: `archimedes_jr`  
+- 📧 Email: temitayo.shittu7@gmail.com  
 
 
