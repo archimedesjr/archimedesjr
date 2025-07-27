@@ -1,5 +1,5 @@
 # 👋Hi there, I'm Idris Temitayo Shittu! 
-🎯 Aspiring Back-End Developer | 📚 Tutor | 🎨 Writer
+🎯Back-End Developer | 📚 Tutor | 🎨 Writer
 
 
 ## About Me 🚀
